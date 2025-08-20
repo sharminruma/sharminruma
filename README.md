@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="100%" src="https://github.com/sharminruma/sharminruma/blob/main/GithubBanner.png" alt="cover" />
 
 <!--
 **sharminruma/sharminruma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
