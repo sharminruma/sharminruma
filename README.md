@@ -14,8 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharminruma&show_icons=true&theme=radical)
+# 👋 Hello World, I'm Sharmin Ruma  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharminruma&layout=compact&theme=radical)
+💻 Tech Enthusiast | 🌱 Love Coding | 🚀 Open to Challenges  
+
+---
+
+## 📊 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sharminruma&show_icons=true&theme=radical" alt="Sharmin's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharminruma&layout=compact&theme=radical" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Streak Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharminruma&theme=radical" alt="Sharmin's Streak" />
+</p>
+
+---
 
 
