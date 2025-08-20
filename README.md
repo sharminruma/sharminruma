@@ -42,5 +42,25 @@ Here are some ideas to get you started:
 </p>
 
 ---
+### 💻 Languages and Tools  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,react,html,css,tailwind,bootstrap,nodejs,express,mongodb,firebase,git,figma,canva,vercel,netlify" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sharminruma&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharminruma&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🔥 GitHub Streak  
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sharminruma&theme=radical" alt="GitHub Streak"/>
+</p>
+
 
 
